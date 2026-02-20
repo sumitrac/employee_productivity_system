@@ -1,0 +1,22 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Blueprints/Package manager folders
+.gradle/
+build/
+
+# IntelliJ IDEA files
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# macOS system files
+.DS_Store
+
+# Local configuration files (if any)
+local.properties
